@@ -6523,7 +6523,6 @@
 					/usr/local/include,
 					"$(inherited)",
 				);
-				MACOSX_DEPLOYMENT_TARGET = 10.9;
 			};
 			name = Debug;
 		};
@@ -6542,7 +6541,6 @@
 					/usr/local/include,
 					"$(inherited)",
 				);
-				MACOSX_DEPLOYMENT_TARGET = 10.9;
 			};
 			name = Release;
 		};
